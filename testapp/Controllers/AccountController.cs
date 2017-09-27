@@ -20,6 +20,7 @@ namespace testapp.Controllers
 
         public AccountController()
         {
+            //jhjjhjhjhjhjhhjjh
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
